@@ -64,5 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Molnlycke Health Care is a company surfaced via the API Evangelist harvest backlog (source: swedish-healthcare) and added to the network as a stub for full-pipeline profiling.
-- https://www.molnlycke.com/
+Molnlycke Health Care is a world‑leading MedTech company based in Sweden, providing innovative wound‑care and surgical solutions. It focuses on improving patient outcomes and supporting healthcare professionals with high‑quality products, sustainability initiatives, and extensive clinical expertise. The company’s corporate site offers information on its portfolio, sustainability, careers, and investor relations, reflecting its commitment to advancing healthcare worldwide.
+
+**Areas:** Company · Medical Technology · WoundCare · SurgicalSolutions · Sustainability
+
+## Molnlycke Health Care on APIs.io
+
+Everything profiled for Molnlycke Health Care is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/molnlycke-health-care/](https://apis.io/providers/molnlycke-health-care/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Molnlycke Health Care Domain Security](https://apis.io/security/molnlycke-health-care/molnlycke-health-care-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.molnlycke.com/)
+- [Support](https://www.molnlycke.com/en-us/us/campaign/wound-care/avance-solo-2/support/)
+- [Terms of service](https://www.molnlycke.com/corporate/privacy-centre/terms-of-use/)
+- [Privacy policy](https://www.molnlycke.com/corporate/privacy-centre/)
+
+## API Evangelist rating
+
+**Kin Score 11.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 3.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/molnlycke-health-care/](https://apis.io/providers/molnlycke-health-care/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Molnlycke Health Care: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/molnlycke-health-care/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
